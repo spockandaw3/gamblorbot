@@ -1,0 +1,15 @@
+#! /usr/bin/env python3
+
+
+headless = True
+gambling_interval_seconds = 420
+gift_interval_seconds = 900
+gift_size = 1
+username = ''
+password = ''
+loss_tolerance = 6
+twitch_streamer = 'TheKurlyFox'
+twitch_url = f'https://www.twitch.tv/{twitch_streamer}'
+leaderboard_url = f'https://streamelements.com/{twitch_streamer}/leaderboard'
+screenshot_path = ''
+
